@@ -2,7 +2,8 @@
 
 > **Официальное РУ комьюнити по игре Ravengard на сервере Hypixel**
 > https://discord.gg/YDmudHsHPZ
-
+> 
+> А так же наш Тгк: https://t.me/ravengard_hypixel
 
 
 ## 🎮 О проекте
